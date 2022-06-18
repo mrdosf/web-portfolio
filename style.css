@@ -30,3 +30,6 @@ p{
     border-radius: 5px;
     font-weight: 700;
 }
+.dream_area{
+    background-image: url(images/dream-bg.png);
+}
