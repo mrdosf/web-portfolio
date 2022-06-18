@@ -31,5 +31,5 @@ p{
     font-weight: 700;
 }
 .dream_area{
-    background-image: url(images/dream-bg.png);
+    background-image: url("images/dream-bg.png");
 }
